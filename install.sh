@@ -9,4 +9,6 @@ curl -sS https://starship.rs/install.sh | sh
 # Set as default shell
 chsh -s $(which zsh)
 
+#Clone repo and stow the config files???
+
 
