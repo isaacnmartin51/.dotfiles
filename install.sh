@@ -10,5 +10,7 @@ curl -sS https://starship.rs/install.sh | sh
 chsh -s $(which zsh)
 
 #Clone repo and stow the config files???
-
+sudo apt install stow
+stow zsh
+stow starship
 
