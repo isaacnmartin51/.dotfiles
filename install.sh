@@ -16,4 +16,5 @@ sudo apt install neovim
 sudo apt install stow
 stow zsh
 stow starship
+stow neovim
 
